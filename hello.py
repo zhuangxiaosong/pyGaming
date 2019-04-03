@@ -4,3 +4,4 @@
 import os
 
 print("Hello %s!" % os.environ["NAME"])
+print('-'*50)
